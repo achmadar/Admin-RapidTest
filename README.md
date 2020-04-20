@@ -7,6 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Tentang Project Ini
+Project ini dibangun dengan framework laravel. Project ini dibuat untuk memenuhi Tugas Akhir dari mata kuliah "Mobile Programming Terapan". Perlu diingat, untuk database yang digunakan adalah database yang sudah **Diexport** pada repository ini dengan nama **"db_rapidtest"**. Mengapa tidak menggunakan migration yang disediakan laravel? Hal ini dikarenakan dalam pembuatannya dikerjakan secara berkelompok dan database sendiri sudah menjadi tugas dari anggota lain.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
